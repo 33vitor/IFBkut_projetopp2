@@ -24,6 +24,7 @@
 
 7. SOLUÇÃO PARA PROBLEMAS IDENTIFICADOS
 	-Responsividade
+
 		img {
 			max-width: 100%;
 			height: auto;
